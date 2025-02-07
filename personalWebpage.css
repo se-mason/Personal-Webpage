@@ -1,0 +1,26 @@
+body {
+    font-family: High Tower, sans-serif;
+    text-align: left;
+    margin: 50px;
+    background-color: #FFFCF2;
+    color: #252422;
+}
+/*
+h1 {
+    color: #333;
+}
+*/
+p {
+    font-size: 18px;
+}
+
+footer{
+    position: fixed;
+    text-align: center;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #403D39;
+    color: #CCC5B9;
+    padding: 10px;
+}
